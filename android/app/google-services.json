@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76140071588",
+    "project_id": "tasty-and-yummy-2b874",
+    "storage_bucket": "tasty-and-yummy-2b874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76140071588:android:1abf5a65211c316a6b3431",
+        "android_client_info": {
+          "package_name": "com.itfox.tasty_yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76140071588-r20de5te21gmm0jgppodk9jhl3tq9oro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itfox.tasty_yummy",
+            "certificate_hash": "5d3d512abe6b10d47f1e6fdeac0624b8a2ed9149"
+          }
+        },
+        {
+          "client_id": "76140071588-p6479i3bfu2gmiclqublr4jq12eiqcp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpNcJwFsFCBECC02n68BixK_rlaEwh6Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76140071588-p6479i3bfu2gmiclqublr4jq12eiqcp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
